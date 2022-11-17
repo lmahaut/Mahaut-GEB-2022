@@ -6,7 +6,7 @@ This folder contains the materials for the analysis of the paper "Trade-offs and
 
 171122_functionKNDVI : function to compute annual kNDVI from the MODIS data. Credit Philippe Choler
 
-171122_data process : dataset processed for the analysis
+081022_process_data : dataset for the analysis
 
 171122_analyses : R code to analyse the data
 
