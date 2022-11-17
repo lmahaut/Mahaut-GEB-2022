@@ -1,0 +1,67 @@
+Scale;EP;Variable;Coeff;Percent;Pattern
+Calcareous;Productivity;N input;0.46;64.78873239;direct
+Calcareous;Productivity;N input;0;0;indirect
+Calcareous;Productivity;GSL;0.25;35.21126761;direct
+Calcareous;Productivity;GSL;0;0;indirect
+Calcareous;Productivity;CWM;0;0;direct
+Calcareous;Productivity;Diversity;0;0;direct
+Calcareous;Constancy;N input;0;0;direct
+Calcareous;Constancy;N input;0;0;indirect
+Calcareous;Constancy;GSL;0.44;100;direct
+Calcareous;Constancy;GSL;0;0;indirect
+Calcareous;Constancy;CWM;0;0;direct
+Calcareous;Constancy;Diversity;0;0;direct
+Calcareous;Resistance;N input;0.47;53.87436956;direct
+Calcareous;Resistance;N input;0.1124;12.88399817;indirect
+Calcareous;Resistance;GSL;0;0;direct
+Calcareous;Resistance;GSL;0;0;indirect
+Calcareous;Resistance;CWM;0.29;33.24163228;direct
+Calcareous;Resistance;Diversity;0;0;direct
+Mesic;Productivity;N input;0.4;68.96551724;direct
+Mesic;Productivity;N input;0;0;indirect
+Mesic;Productivity;GSL;0.18;31.03448276;direct
+Mesic;Productivity;GSL;0;0;indirect
+Mesic;Productivity;CWM;0;0;direct
+Mesic;Productivity;Diversity;0;0;direct
+Mesic;Constancy;N input;0.28;45.01607717;direct
+Mesic;Constancy;N input;0.02;3.215434084;indirect
+Mesic;Constancy;GSL;0.23;36.97749196;direct
+Mesic;Constancy;GSL;0.012;1.92926045;indirect
+Mesic;Constancy;CWM;0.08;12.86173633;direct
+Mesic;Constancy;Diversity;0;0;direct
+Ruderal;Productivity;N input;0.55;74.12398922;direct
+Ruderal;Productivity;N input;0.042;5.660377358;indirect
+Ruderal;Productivity;GSL;0;0;direct
+Ruderal;Productivity;GSL;0;0;indirect
+Ruderal;Productivity;CWM;0.15;20.21563342;direct
+Ruderal;Productivity;Diversity;0;0;direct
+Ruderal;Constancy;N input;0;0;direct
+Ruderal;Constancy;N input;0;0;indirect
+Ruderal;Constancy;GSL;0;0;direct
+Ruderal;Constancy;GSL;0.1254;17.5286553;indirect
+Ruderal;Constancy;CWM;0.21;29.35420744;direct
+Ruderal;Constancy;Diversity;0.38;53.11713727;direct
+Ruderal;Resistance;N input;0;0;direct
+Ruderal;Resistance;N input;0.056;7.719878688;indirect
+Ruderal;Resistance;GSL;0;0;direct
+Ruderal;Resistance;GSL;0.0594;8.188585608;indirect
+Ruderal;Resistance;CWM;0.43;59.27763992;direct
+Ruderal;Resistance;Diversity;0.18;24.81389578;direct
+Mountain;Productivity;N input;0.65;74.71264368;direct
+Mountain;Productivity;N input;0;0;indirect
+Mountain;Productivity;GSL;0.22;25.28735632;direct
+Mountain;Productivity;GSL;0;0;indirect
+Mountain;Productivity;CWM;0;0;direct
+Mountain;Productivity;Diversity;0;0;direct
+Mountain;Constancy;N input;0.39;100;direct
+Mountain;Constancy;N input;0;0;indirect
+Mountain;Constancy;GSL;0;0;direct
+Mountain;Constancy;GSL;0;0;indirect
+Mountain;Constancy;CWM;0;0;direct
+Mountain;Constancy;Diversity;0;0;direct
+Mountain;Resistance;N input;0.34;44.28813339;direct
+Mountain;Resistance;N input;0;0;indirect
+Mountain;Resistance;GSL;0.26;33.86739612;direct
+Mountain;Resistance;GSL;0.0377;4.910772437;indirect
+Mountain;Resistance;CWM;0.13;16.93369806;direct
+Mountain;Resistance;Diversity;0;0;direct
